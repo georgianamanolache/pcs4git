@@ -1,0 +1,10 @@
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\bin\Debug\exam_jan_2019_practice.exe.config
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\bin\Debug\exam_jan_2019_practice.exe
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\bin\Debug\exam_jan_2019_practice.pdb
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.csprojResolveAssemblyReference.cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.Form1.resources
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.Properties.Resources.resources
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.csproj.GenerateResource.Cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.csproj.CoreCompileInputs.cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.exe
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\exam_jan_2019_practice\exam_jan_2019_practice\obj\Debug\exam_jan_2019_practice.pdb

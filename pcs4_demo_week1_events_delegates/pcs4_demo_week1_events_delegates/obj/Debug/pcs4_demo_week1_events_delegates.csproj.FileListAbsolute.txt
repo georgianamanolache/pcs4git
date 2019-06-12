@@ -1,0 +1,10 @@
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.csprojResolveAssemblyReference.cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.Form1.resources
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.Properties.Resources.resources
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.csproj.GenerateResource.Cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.csproj.CoreCompileInputs.cache
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\bin\Debug\pcs4_demo_week1_events_delegates.exe.config
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\bin\Debug\pcs4_demo_week1_events_delegates.exe
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\bin\Debug\pcs4_demo_week1_events_delegates.pdb
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.exe
+C:\Users\875856\OneDrive - Office 365 Fontys\teaching\pcs\pcs4_spring2019\demo\pcs4_demo_week1_events_delegates\pcs4_demo_week1_events_delegates\obj\Debug\pcs4_demo_week1_events_delegates.pdb

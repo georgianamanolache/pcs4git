@@ -1,0 +1,10 @@
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\bin\Debug\pcs4_demo_week3_recursion.exe.config
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\bin\Debug\pcs4_demo_week3_recursion.exe
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\bin\Debug\pcs4_demo_week3_recursion.pdb
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.csprojResolveAssemblyReference.cache
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.Form1.resources
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.Properties.Resources.resources
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.csproj.GenerateResource.Cache
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.csproj.CoreCompileInputs.cache
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.exe
+C:\Users\875856\source\repos\pcs4_demo_week3_recursion\pcs4_demo_week3_recursion\obj\Debug\pcs4_demo_week3_recursion.pdb
